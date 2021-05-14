@@ -5,6 +5,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 1.4rem;
+
+    background: #232526;
+    background: -webkit-linear-gradient(to bottom, #414345, #232526);
+    background: linear-gradient(to bottom, #414345, #232526);
 }
 
 h1, h2 {
